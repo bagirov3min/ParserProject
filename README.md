@@ -61,10 +61,10 @@ To run the parsing and view the results, follow these steps:
 
 #### Parsing the Ruble-to-Dollar Exchange Rate:
 
-Дата        Курс рубля к доллару  Изменение
-20.07.2023  91.2046               +0.514
-21.07.2023  90.8545               −0.3501
-22.07.2023  90.3846               −0.4699
+Дата        Курс рубля к доллару  Изменение <br>
+20.07.2023  91.2046               +0.514 <br>
+21.07.2023  90.8545               −0.3501 <br>
+22.07.2023  90.3846               −0.4699 <br>
 
 #### Exchange Rate Graph:
 
